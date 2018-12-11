@@ -1,0 +1,7 @@
+c:\users\oleksii\source\repos\TrainingApi\TrainingApi\obj\Debug\TrainingApi.csprojResolveAssemblyReference.cache
+c:\users\oleksii\source\repos\TrainingApi\TrainingApi\obj\Debug\TrainingApi.csproj.CoreCompileInputs.cache
+c:\users\oleksii\source\repos\TrainingApi\TrainingApi\bin\Debug\TrainingApi.exe.config
+c:\users\oleksii\source\repos\TrainingApi\TrainingApi\bin\Debug\TrainingApi.exe
+c:\users\oleksii\source\repos\TrainingApi\TrainingApi\bin\Debug\TrainingApi.pdb
+c:\users\oleksii\source\repos\TrainingApi\TrainingApi\obj\Debug\TrainingApi.exe
+c:\users\oleksii\source\repos\TrainingApi\TrainingApi\obj\Debug\TrainingApi.pdb
